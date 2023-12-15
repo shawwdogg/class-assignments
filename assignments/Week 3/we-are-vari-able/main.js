@@ -2,7 +2,29 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = "Carlos"
 
+let myLastName = "Shaw"
+
+let myFavoriteCeleb = "whitney Houston"
+
+let mySentence = "My name is " + myFirstName + myLastName + " and " + myFavoriteCeleb + " is my favorite celeb ."
+  
+let myLuckyNum =27
+
+let myAge = 51
+ 
+let myHeight = 5.11
+
+let myFavoriteYear = 1972
+
+ 
+let mySum = 5 + 2317 + 36;
+
+
+let myProduct = 232 * 43 / 2 + 4;
+
+let myHeightAndAge = myHeight + myAge;
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
